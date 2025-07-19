@@ -1,2 +1,2 @@
 # agmg-excel
-Repositório destinado ao registro de algumas manipulações feitas utilizando MS-Excel. 
+Repositório destinado ao registro de algumas análises e manipulações feitas utilizando MS-Excel. 
